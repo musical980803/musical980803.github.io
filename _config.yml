@@ -120,6 +120,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+#TOC:Table of Contents
+toc: true
+toc_sticky: true
+#toc_label : '페이지 목차'
+
 # Site Footer
 footer:
   links:
