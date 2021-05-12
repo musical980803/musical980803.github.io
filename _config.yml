@@ -9,13 +9,16 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-#TOC:Table of Contents
-toc: true
-toc_sticky: true
-#toc_label : '페이지 목차'
+
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Front Matter
+---
+toc: true
+toc_sticky: true
+---
 
 # Site Settings
 locale                   : "KR"
